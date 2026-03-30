@@ -215,7 +215,7 @@ with tab3:
     st.dataframe(report_df.iloc[:-3, :3].style.background_gradient(cmap='Greens'), use_container_width=True)
     
     st.info("""
-    **Quick Guide for the Viva:**
+    **Quick Guide:**
     * **Precision:** How many of the predicted 'Rice' crops were actually Rice?
     * **Recall:** Out of all the actual 'Rice' in the data, how many did the AI find?
     * **F1-Score:** The perfect balance between the two. The closer to 1.0, the better!
