@@ -26,6 +26,12 @@ This project moves beyond static historical datasets by integrating live satelli
 ## 🚀 How to Run Locally
 
 **1. Clone the repository**
+*(Make sure to change `YOUR_GITHUB_USERNAME` in the clone command to your actual GitHub name!)*
+
+**Go ahead and save this, upload your files to GitHub, and hit that Deploy button on Streamlit. Let me know when you have that live URL in your hands!**
 ```bash
 git clone [https://github.com/YOUR_GITHUB_USERNAME/agri-smart-ai.git](https://github.com/YOUR_GITHUB_USERNAME/agri-smart-ai.git)
 cd agri-smart-ai
+
+
+
